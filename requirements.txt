@@ -1,0 +1,5 @@
+aiohttp<3.7.0,>=3.6.0
+discord.py==1.5.1
+python-dotenv==0.15.0
+emojis==0.6.0
+discord-py-slash-command
